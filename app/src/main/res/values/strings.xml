@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="empty_state_text_view">Couldn\'t find anything</string>
+    <string name="no_date">Unknown date</string>
+    <string name="no_time">Unknown time</string>
+
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_most_recent_value</string>
+
+    <string name="settings_order_by_most_recent_label">Most Recent</string>
+    <string name="settings_order_by_most_recent_value" translatable="false">newest</string>
+
+    <string name="settings_order_by_least_recent_label">Least Recent</string>
+    <string name="settings_order_by_least_recent_value" translatable="false">oldest</string>
+
+    <string name="settings_order_by_relevance_label">Most Relevant</string>
+    <string name="settings_order_by_relevance_value" translatable="false">relevance</string>
+
+    <string name="settings_section_label">Choose section</string>
+    <string name="settings_section_key">section</string>
+    <string name="settings_section_default">@string/settings_section_world_value</string>
+
+    <!-- Section Labels -->
+    <string name="settings_section_business_label">Business</string>
+    <string name="settings_section_education_label">Education</string>
+    <string name="settings_section_environment_label">Environment</string>
+    <string name="settings_section_fashion_label">Fashion</string>
+    <string name="settings_section_film_label">Film</string>
+    <string name="settings_section_money_label">Money</string>
+    <string name="settings_section_politics_label">Politics</string>
+    <string name="settings_section_sport_label">Sport</string>
+    <string name="settings_section_technology_label">Technology</string>
+    <string name="settings_section_weather_label">Weather</string>
+    <string name="settings_section_world_label">World</string>
+
+    <!-- Section Values -->
+    <string name="settings_section_business_value">business</string>
+    <string name="settings_section_education_value">education</string>
+    <string name="settings_section_environment_value">environment</string>
+    <string name="settings_section_fashion_value">fashion</string>
+    <string name="settings_section_film_value">film</string>
+    <string name="settings_section_money_value">money</string>
+    <string name="settings_section_politics_value">politics</string>
+    <string name="settings_section_sport_value">sport</string>
+    <string name="settings_section_technology_value">technology</string>
+    <string name="settings_section_weather_value">weather</string>
+    <string name="settings_section_world_value">world</string>
+
+</resources>
